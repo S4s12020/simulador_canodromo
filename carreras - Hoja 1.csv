@@ -1,0 +1,9 @@
+id_carreras,nombre,raza,velocidad,metros,puesto,segundos
+1,Rayo,Mediano,13,130,3,10
+1,Toby,Grande,16,160,2,10
+1,Luna,Mediano,12,120,4,10
+1,Zeus,Grande,17,170,1,10
+2,Rayo,Mediano,14,140,3,10
+2,Toby,Grande,15,150,2,10
+2,Luna,Mediano,14,140,4,10
+2,Zeus,Grande,18,180,1,10
